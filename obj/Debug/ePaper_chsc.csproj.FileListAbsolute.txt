@@ -1,0 +1,8 @@
+D:\Documents\_iSchool AE\addmodules\ePaper_chsc\ePaper_chsc.dll
+D:\Documents\_iSchool AE\addmodules\ePaper_chsc\ePaper_chsc.pdb
+D:\Documents\Visual Studio 2012\Projects\ePaper_chsc\obj\Debug\ePaper_chsc.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\Projects\ePaper_chsc\obj\Debug\ElectronicPaper.ElectronicPaperEditor.resources
+D:\Documents\Visual Studio 2012\Projects\ePaper_chsc\obj\Debug\ElectronicPaper.ElectronicPaperManager.resources
+D:\Documents\Visual Studio 2012\Projects\ePaper_chsc\obj\Debug\ePaper_chsc.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2012\Projects\ePaper_chsc\obj\Debug\ePaper_chsc.dll
+D:\Documents\Visual Studio 2012\Projects\ePaper_chsc\obj\Debug\ePaper_chsc.pdb
